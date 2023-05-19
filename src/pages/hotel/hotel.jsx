@@ -92,7 +92,7 @@ const Hotel = () => {
             Excellent location – 500m from center
           </span>
           <span className="hotelPriceHighlight">
-            Book a stay over $114 at this property and get a free airport taxi
+            Book a stay over Rs.5000 at this property and get a free airport taxi
           </span>
           <div className="hotelImages">
             {photos.map((photo, i) => (
@@ -130,7 +130,7 @@ const Hotel = () => {
                 excellent location score of 9.8!
               </span>
               <h2>
-                <b>$945</b> (9 nights)
+                <b>Rs.6000</b> (9 nights)
               </h2>
               <button>Reserve or Book Now!</button>
             </div>
